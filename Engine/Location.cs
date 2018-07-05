@@ -28,6 +28,7 @@ namespace Engine
             ItemRequiredToEnter = itemRequiredToEnter;
             QuestAvailableHere = questAvailableHere;
             MonsterLivingHere = monsterLivingHere;
+            print("I try github!");
         }                                                                     
     }                 
 }
